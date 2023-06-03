@@ -1,1 +1,1 @@
-# sports_analytics
+# SportsAnalytics
